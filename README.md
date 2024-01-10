@@ -19,9 +19,9 @@ Media Query and CSS-Variables Example (folder)
 |----readme.md
 |----images
 |----index.html
-|----intro.html
-|----CSS
-      |----style.css
+|----style.css
+|----intro
+      |----intro.html
       |----intro.css
 
 
