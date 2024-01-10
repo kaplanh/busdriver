@@ -14,7 +14,7 @@ The project aims to create an animated page using CSS animation, transform and t
 ## Project Skeleton
 
 ```
-Media Query and CSS-Variables Example (folder)
+Busdriver (folder)
 |
 |----readme.md
 |----images
