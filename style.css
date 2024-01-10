@@ -11,7 +11,7 @@ body {
 
 .bg-image {
     position: relative;
-    background-image: url(../images/Img_1.png);
+    background-image: url(./images/Img_1.png);
     background-size: cover;
     width: 100%;
     height: 650px;
@@ -21,7 +21,7 @@ body {
 
 .ground {
     position: absolute;
-    background-image: url(../images/Img_02.png);
+    background-image: url(./images/Img_02.png);
     height: 150px;
     width: 15000%;
     bottom: 0;
